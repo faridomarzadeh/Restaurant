@@ -8,12 +8,13 @@ html {
 }
 
 body {
-    background-image: url("images/background-adare-restaurant.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
     background-color: #2F3035;
-    background-position: center;
     padding-bottom: 25px;
+
+        background-image: url("images/background-adare-restaurant.jpg");
+    background-size: cover;
+    background-repeat: repeat-y;
+    background-position: center;
 }
 
 .container {
